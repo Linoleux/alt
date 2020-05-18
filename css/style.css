@@ -29,6 +29,7 @@ footer, header, hgroup, menu, nav, section {
 }
 body {
   line-height: 1;
+  line-width: 5;
 }
 ol, ul {
   list-style: none;
@@ -67,7 +68,6 @@ body {
   font-family: 'Montserrat', sans-serif;
   color: #fff;
   line-height: 1.3;
-  line-width: 5;
   -webkit-font-smoothing: antialiased;
 }
 
